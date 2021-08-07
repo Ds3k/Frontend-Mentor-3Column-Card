@@ -29,8 +29,8 @@ Mobile View
 ![](./screenshots/mobile.png)
 
 ### Links
-- Solution URL:
-- Live Site URL:
+- Solution URL: https://github.com/Ds3k/Frontend-Mentor-3Column-Card
+- Live Site URL: https://ds3k.github.io/Frontend-Mentor-3Column-Card/
 
 ## My process
 From the onset, I decided on using CSS and some HTML5 to practice on my the basis of styling using CSS Grid but ending up using CSS FLexbox.
